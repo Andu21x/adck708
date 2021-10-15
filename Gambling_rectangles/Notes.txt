@@ -1,4 +1,0 @@
-
-Things to write in my description/speech of the project:
-
-Challenges what I've found, when mouse cursor is out of the game window 
